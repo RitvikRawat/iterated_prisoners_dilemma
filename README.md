@@ -13,4 +13,5 @@ cd simulator
 python run_match.py
 ```
 Results of the run can be found in result/output.csv
+
 cell\[i,j\] represents score_of_strategy_1/score_of_strategy_2
