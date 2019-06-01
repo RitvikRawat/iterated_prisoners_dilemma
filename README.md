@@ -14,4 +14,4 @@ python run_match.py
 ```
 Results of the run can be found in result/output.csv
 
-The (i,j)^{th} cell represents Strategy 1 score/Strategy 2 score
+The (i,j)th cell represents Strategy 1 score/Strategy 2 score
