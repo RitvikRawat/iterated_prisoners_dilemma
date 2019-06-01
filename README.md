@@ -6,3 +6,11 @@ Currently supports 4 strategies:
 2. **randomstrat**: This straetgy randomly plays "defect" or "cooperate".
 3. **saint**: This strategy always plays "cooperate".
 4. **tft**: This is the tit for tat strategy. It starts with "cooperate" and then copies the move of the opponent.
+
+## To run the simulation
+```
+cd simulator
+python run_match.py
+```
+Results of the run can be found in result/output.csv
+cell\[i,j\] represents score_of_strategy_1/score_of_strategy_2
