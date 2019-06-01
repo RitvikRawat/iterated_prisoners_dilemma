@@ -3,7 +3,7 @@ Simulation of [Iterated Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prison
 
 Currently supports 4 strategies:
 1. **domstrat**: Using the dominant strategy in the Prisoner's Dilemma game, this strategy always plays "defect".
-2. **randomstrat**: This straetgy randomly plays "defect" or "cooperate".
+2. **randomstrat**: This strategy randomly plays "defect" or "cooperate".
 3. **saint**: This strategy always plays "cooperate".
 4. **tft**: This is the tit for tat strategy. It starts with "cooperate" and then copies the move of the opponent.
 
