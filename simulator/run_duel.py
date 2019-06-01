@@ -35,5 +35,3 @@ def duel(strategy1, strategy2, no_of_runs):
 		old_action2 = action2
 	return score1, score2, moves1, moves2
 
-no_of_runs = config.getint('simulation_run','no_of_runs')
-print duel(Randomstrat(), TFT(), no_of_runs)
